@@ -20,7 +20,7 @@ TODO
 
 ### Glenn Colpaert
 
-![](/assets/media/crew/glenn-colpaert.jpg)
+<img src="/assets/media/crew/glenn-colpaert.jpg" width="250">
 
 Glenn is Azure & IoT Domain Lead at Codit, where he ensures the day to day operations of the Azure and IoT domain within Codit. Since 2014 he is a Microsoft Azure MVP and Microsoft Azure Advisor. Next to his day to day job, he also is part of the BTUG (Belgian BizTalk User Group) board.
 
@@ -31,13 +31,13 @@ You can find this blogposts on his Personal Blog ([https://glenncolpaert.wordpre
 
 ### Sven Van den brande
 
-![](/assets/media/crew/sven-van-den-brande.jpg)
+<img src="/assets/media/crew/sven-van-den-brande.jpg" width="250">
 
 TODO
 
 ### Sam Vanhoutte
 
-![](/assets/media/crew/sam-vanhoutte.jpg)
+<img src="/assets/media/crew/sam-vanhoutte.jpg" width="250">
 
 Sam Vanhoutte is CTO and Product Manager with Codit. 
 Based in Belgium, Sam is a Microsoft BizTalk Virtual Technology Specialist and has extensive experience in building integrated enterprise, ESB and SOA solutions.  
