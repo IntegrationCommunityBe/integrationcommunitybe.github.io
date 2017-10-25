@@ -7,8 +7,6 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.25"
   overlay_image: /assets/media/splash.jpg
-  cta_label: "Join us!"
-  cta_url: "#join-us-stay-informed"
 excerpt: "The Belgium Integration Community User Group focuses on knowledge sharing and networking around development and architecture of Microsoft’s Integration Technology."
 ---
 

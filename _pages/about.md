@@ -33,11 +33,12 @@ He has gained a lot of hand-on experience during his projects and likes to share
 
 You can find this blogposts on his Personal Blog ([https://glenncolpaert.wordpress.com/](https://glenncolpaert.wordpress.com/)) and follow his tweets via [http://twitter.com/GlennColpaert](http://twitter.com/GlennColpaert)
 
+
 ### Sven Van den brande
 
 <img src="/assets/media/crew/sven-van-den-brande.jpg" width="250">
 
-Sven is a Business Integration Engieer at Integration.team, where he is working as a consultant for multiple customers on different Microsoft Integration technologies like BizTalk, Azure, IoT,...
+Sven is a Business Integration Engineer at Integration.team, where he is working as a consultant for multiple customers on different Microsoft Integration technologies like BizTalk, Azure, IoT,...
 
 Sven also co-founded the BizTalk User Group in Belgium (now the Integration Community User Group). He also co-founded the Global Integration Bootcamp "Group" ([https://www.globalintegrationbootcamp.com/](https://www.globalintegrationbootcamp.com/)).
 
