@@ -5,7 +5,7 @@ tagline: Integration Community Group Belgium
 permalink: /about
 ---
 
-Integration Community is a Belgian user group with .....
+Integration Community is a Belgian user group with the focus on Microsoft Integration technology.
 
 ## Board
 
@@ -13,10 +13,14 @@ The current board is <a href="http://www.codit.eu"><span style="color: #455f9c;"
 
 ## History
 
-TODO
+July 2013: Btug.be co-founded by Sam & Sven
+
+September 2014: Glenn joined the board
+
+October 2017: Namechange from Btug.be --> IntegrationCommunity.be
 
 
-## Crew
+## Board
 
 ### Glenn Colpaert
 
@@ -33,7 +37,12 @@ You can find this blogposts on his Personal Blog ([https://glenncolpaert.wordpre
 
 <img src="/assets/media/crew/sven-van-den-brande.jpg" width="250">
 
-TODO
+Sven is a Business Integration Engieer at Integration.team, where he is working as a consultant for multiple customers on different Microsoft Integration technologies like BizTalk, Azure, IoT,...
+
+Sven also co-founded the BizTalk User Group in Belgium (now the Integration Community User Group). He also co-founded the Global Integration Bootcamp "Group" ([https://www.globalintegrationbootcamp.com/](https://www.globalintegrationbootcamp.com/)).
+
+You find blogposts on his Personal Blog ([http://www.svenvandenbrande.be/](http://www.svenvandenbrande.be/) and follow his tweets via [https://twitter.com/SVandenbrande](https://twitter.com/SVandenbrande)
+
 
 ### Sam Vanhoutte
 

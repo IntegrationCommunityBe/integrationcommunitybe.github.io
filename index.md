@@ -13,7 +13,7 @@ excerpt: "The Belgium Integration Community User Group focuses on knowledge shar
 ---
 
 ## Upcoming events
-**2017-06-19 - Title Session** - Description Martin's Session. [Register here!](/events/2017/06/19/sessionname){: .btn .btn--success}
+**2017-12-11 - Title Session** - Description Session. [Register here!](/events/2017/12/11/sessionname){: .btn .btn--success}
 {: .notice--info}
 
 <hr />
@@ -27,24 +27,13 @@ We constantly search for topics and speakers and are very open to the subjects, 
 <hr />
 
 <p style="text-align: center;">
-<a href="http://www.integration.team"><img alt="" src="/assets/media/sponsors/logo-integrationteam.png" vspace="10" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="http://www.codit.be"><img alt="" src="/assets/media/sponsors/logo-codit.jpg" vspace="10" /></a>&nbsp;
+
+<a href="http://www.codit.be"><img alt="" src="/assets/media/sponsors/logo-codit.jpg" vspace="10" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.integration.team"><img alt="" src="/assets/media/sponsors/logo-integrationteam.png" vspace="10" /></a>
 
 
 <br />
-<a href="http://www.microsoft.be"><img alt="" src="/assets/media/sponsors/logo-microsoft.jpg" vspace="10" /></a>&nbsp;</a>
+<a href="http://www.microsoft.be"><img alt="" src="/assets/media/sponsors/logo-microsoft.jpg" vspace="10" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.biztalk360.be"><img alt="" src="/assets/media/sponsors/logo-biztalk360.png" vspace="10" />
 </p>
 
 <hr />
-
-## Join us, stay informed
-
-Becoming a member of Integration Community is free! Join our mailing list and be among the first to hear about new events and meetups.
-
-TODO
-
-## Microsoft Azure?
-
-The Microsoft Azure platform is a flexible cloud–computing platform that lets you focus on solving business problems and addressing customer needs. No need to invest upfront on expensive infrastructure. Pay only for what you use, scale up when you need capacity and pull it back when you don’t.
-
-Find out more on [www.azure.com](http://www.azure.com)
