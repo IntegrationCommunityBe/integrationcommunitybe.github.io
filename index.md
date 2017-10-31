@@ -32,8 +32,13 @@ We constantly search for topics and speakers and are very open to the subjects, 
 <br />
 <a href="http://www.microsoft.be"><img alt="" src="/assets/media/sponsors/logo-microsoft.jpg" vspace="10" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.biztalk360.be"><img alt="" src="/assets/media/sponsors/logo-biztalk360.png" vspace="10" />
+
 </p>
 
 <hr />
 
 <br />
+<br />
+<br />
+<br />
+
