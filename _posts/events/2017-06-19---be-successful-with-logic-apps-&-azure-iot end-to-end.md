@@ -14,7 +14,7 @@ author: Sven Van den brande
 
 Logic Apps, the most comprehensive integration Platform as a Service (iPaaS) in the Cloud, provide connectivity to a wide range of SaaS solutions, various protocols and on premise systems. The possibilities are endless in the concept of server less. This talk will demonstrate the value of Logic App capability, its architecture, design patterns, pitfalls and a real-world business case.
 
-####About Steef-Jan
+#### About Steef-Jan
 
 <img src="/assets/media/speakers/steefjan.jpg" width="250">
 
@@ -28,14 +28,13 @@ You can contact Steef-Jan at: SteefJan@msn.com and be found on Twitter at @Steef
 
 
 
-###Session 2: Sensors, data and dashboards: Azure IoT end-to-end (Martin Abbott)
+### Session 2: Sensors, data and dashboards: Azure IoT end-to-end (Martin Abbott)
 
 Using a trusty Raspberry Pi and a bunch of sensors, this session will take the attendees on an end-to-end journey using Windows 10 IoT Core and the the IoT stack in Microsoft Azure.
 The solution will build out a scenario from sensors all the way through to visualisation and insight, and provide attendees with a real experience in the world of the Internet of Things.
 The Internet of Things is experiencing huge growth and the session will provide a walkthrough of the key areas that constitute a solution, providing attendees with a good starting point from which to build their own solutions.
 
-
-####About Martin Abott
+#### About Martin Abott
 
 <img src="/assets/media/speakers/martinabbott.png" width="250">
 
