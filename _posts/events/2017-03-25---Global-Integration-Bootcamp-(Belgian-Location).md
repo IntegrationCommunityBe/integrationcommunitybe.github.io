@@ -31,3 +31,6 @@ author: Glenn Colpaert
 16:00 – 17:30   Lab 4 + break
 
 17:30 – 18:30   Lab 5 (Optional)
+
+<br />
+<br />

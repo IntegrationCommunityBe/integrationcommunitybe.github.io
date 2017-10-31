@@ -56,3 +56,6 @@ Sam co-founded the BizTalk User Group in Belgium ([http://www.btug.be](http://ww
 While managing and architecting the online integration platform "Codit Integration Cloud", Sam has been focusing on Cloud integration with the Windows Azure platform the last years, focusing on the Azure Service Bus and BizTalk Services technology. 
 
 Sam is blogging on the Codit blog ([http://blog.codit.eu](http://blog.codit.eu)) and tweets via [http://twitter.com/SamVanhoutte](http://twitter.com/SamVanhoutte).
+
+<br />
+<br />

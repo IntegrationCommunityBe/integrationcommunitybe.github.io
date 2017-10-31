@@ -41,3 +41,6 @@ The Internet of Things is experiencing huge growth and the session will provide 
 Martin is a Microsoft MVP for Azure and CTO for a small IoT consultancy based in Perth, Western Australia.
 He has many years of experience in integration, particularly across the Microsoft stack, and more recently has concentrated on developing solutions for the Internet of Things.
 He is the organiser of the Perth MS Cloud Computing User Group, and a global administrator for both Global Azure Bootcamp and Global Integration Bootcamp.
+
+<br />
+<br />
