@@ -27,15 +27,14 @@ We constantly search for topics and speakers and are very open to the subjects, 
 <p style="text-align: center;">
 
 <a href="http://www.codit.be"><img alt="" src="/assets/media/sponsors/logo-codit.jpg" vspace="10" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.integration.team"><img alt="" src="/assets/media/sponsors/logo-integrationteam.png" vspace="10" /></a>
-
-
 <br />
 <a href="http://www.microsoft.be"><img alt="" src="/assets/media/sponsors/logo-microsoft.jpg" vspace="10" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.biztalk360.be"><img alt="" src="/assets/media/sponsors/logo-biztalk360.png" vspace="10" />
-
+<br/>
 </p>
 
 <hr />
+
 
 <br />
 <br />
