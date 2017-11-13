@@ -15,7 +15,7 @@ We hope to see you all there! (Click Image to register)
 
 <a href="https://www.eventbrite.com/e/integrationcommunitybe-monday-december-11-azure-tools-cognitive-services-and-understanding-modern-tickets-39835385711?aff=affiliate1" target="_blank"><img class="alignleft wp-image-1011" src="/assets/media/logo/eventbrite.png" alt="eventbrite" width="119" height="40" /></a>
 
-### Session 1: The Toolshed: Inside Microsoft Azure Tools: Your Daily Hammers! (Mike Martin)
+## Session 1: The Toolshed: Inside Microsoft Azure Tools: Your Daily Hammers! (Mike Martin)
 
 Visual Studio, MSFT’s flagship tool is available for almost every purpose now and people just love it. With it came the new release of the online version and also one for Microsoft Azure integrated in Azure App Services (“Monaco”). This doesn’t make the choice of tooling easier on all of us. And thus maybe it’s about time to take a look what we can do with all the available tools and which tools are your best tools of the trade. And is there such a thing as “One Tool to rule’em all”? This session will hopefully enlighten your path to Microsoft Azure Tooling (for Dev, IT Pro and asset Management)
 
@@ -34,7 +34,7 @@ Helping out in the community and introducing new & young people into the world o
 
 <br />
 
-### Session 2: Integrating life with cognitive services (Eldert Grootenboer)
+## Session 2: Integrating life with cognitive services (Eldert Grootenboer)
 
 In this session, we will see how we can get data from the real world, and use this to drive our business. Thanks to Microsoft Cognitive Services we can easily work with data from the real world, like text, images and videos. By integrating this data into our processes we can make even more engaging and better solutions. 
 
@@ -46,7 +46,7 @@ Eldert is an Azure MVP and Integration Architect from the Netherlands, mainly fo
 
 <br />
 
-### Session 3: Understanding Modern Integration (Tord Glad Nordahl)
+## Session 3: Understanding Modern Integration (Tord Glad Nordahl)
 
 Integration is getting more and more important as we start integrating systems as well as devices, how can you ensure that your framework is in the same era as your technology roadmap. And how can you sell it to the C-level organization. After this session you should have enough firepower to both understand what it requires, as well as how to sell it internally in your organization.
 
