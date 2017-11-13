@@ -11,7 +11,7 @@ excerpt: "The Belgium Integration Community User Group focuses on knowledge shar
 ---
 
 ## Upcoming events
-**2017-12-11 - Title Session** - Description Session. [Register here!](/events/2017/12/11/sessionname){: .btn .btn--success}
+**2017-12-11 - Azure Tools, Cognitive Services and Understanding Modern Integration** - Three sessions: Mike Martin, Eldert GrootenBoer and Tord Glad Nordahl (NO). [Register here!](/events/2017/12/11/Azure-Toolshed){: .btn .btn--success}
 {: .notice--info}
 
 <hr />

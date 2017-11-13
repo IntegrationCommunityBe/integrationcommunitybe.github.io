@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "2017-06-19 - Be successful with Logic Apps & Azure IoT end-to-end"
-date: 2017-06-19 12:00:00 +0000
+title: "2017-12-11 - Azure Tools, Cognitive Services and Understanding Modern Integration"
+date: 2017-12-11 12:00:00 +0000
 comments: true
 published: true
 categories: ["events"]
@@ -10,7 +10,12 @@ author: Sven Van den brande
 ---
 
 
-### Session 1: THE TOOLSHED: INSIDE MICROSOFT AZURE TOOLS: YOUR DAILY HAMMERS! (Mike Martin)
+Our next event will take place in the office of Microsoft, Zaventeam - Belgium.<br />
+We hope to see you all there! (Click Image to register)
+
+<a href="https://www.eventbrite.com/e/btugbe-monday-june-19-be-successful-with-logic-apps-and-azure-iot-end-to-end-tickets-34806761962" target="_blank"><img class="alignleft wp-image-1011" src="/assets/media/logo/eventbrite.png" alt="eventbrite" width="119" height="40" /></a>
+
+### Session 1: The Toolshed: Inside Microsoft Azure Tools: Your Daily Hammers! (Mike Martin)
 
 Visual Studio, MSFT’s flagship tool is available for almost every purpose now and people just love it. With it came the new release of the online version and also one for Microsoft Azure integrated in Azure App Services (“Monaco”). This doesn’t make the choice of tooling easier on all of us. And thus maybe it’s about time to take a look what we can do with all the available tools and which tools are your best tools of the trade. And is there such a thing as “One Tool to rule’em all”? This session will hopefully enlighten your path to Microsoft Azure Tooling (for Dev, IT Pro and asset Management)
 
@@ -27,37 +32,37 @@ In January 2012 he became a crew member of AZUG, the Belgian Microsoft Azure Use
 
 Helping out in the community and introducing new & young people into the world of Microsoft and technology is also one of his passions.
 
-
-<br />
-<br />
 <br />
 
-### Session 2: TODO (Tord)
+### Session 2: Integrating life with cognitive services (Eldert Grootenboer)
 
-TODO
+In this session, we will see how we can get data from the real world, and use this to drive our business. Thanks to Microsoft Cognitive Services we can easily work with data from the real world, like text, images and videos. By integrating this data into our processes we can make even more engaging and better solutions. 
+
+#### About Eldert
+
+<img src="/assets/media/speakers/eldert.jpg" width="250">
+
+Eldert is an Azure MVP and Integration Architect from the Netherlands, mainly focused on IoT, Azure integration and BizTalk Server. He comes from a .NET background, and has been in IT since 2006. He has been working with BizTalk since 2010 and since then has expanded into Azure and surrounding technologies as well. Eldert loves working in integration projects, as each project brings new challenges and there is always something new to learn. In his spare time Eldert likes to be active in the integration community and get his hands dirty on new technologies. He can be found on Twitter at @egrootenboer and has a blog at [http://blog.eldert.net/](http://blog.eldert.net/).
+
+<br />
+
+### Session 3: Understanding Modern Integration (Tord Glad Nordahl)
+
+Integration is getting more and more important as we start integrating systems as well as devices, how can you ensure that your framework is in the same era as your technology roadmap. And how can you sell it to the C-level organization. After this session you should have enough firepower to both understand what it requires, as well as how to sell it internally in your organization.
 
 #### About Tord
 
-<img src="/assets/media/speakers/tord.jpg" width="250">
+<img src="/assets/media/speakers/tord.png" width="250">
 
-<br />
-<br />
-<br />
+Tord has been in the integration space for more than a decade, working through consultancy, Microsoft sales, into the Integration Product Group in Redmond responsible for BizTalk Server turning the boat around and getting the right attention and focus, he is now in charge for digitalization in a local company in Norway, Bergen working as Chief Digital Officer, the company is responsible for over 80 vessels, and locations all around the world. 
 
 
-### Session 2: TODO (Glenn Colpaert)
 
-TODO
 
-#### About Glenn Colpaert
 
-<img src="/assets/media/speakers/glenn-colpaert.jpg" width="250">
 
-Glenn is Azure & IoT Domain Lead at Codit, where he ensures the day to day operations of the Azure and IoT domain within Codit. Since 2014 he is a Microsoft Azure MVP and Microsoft Azure Advisor. Next to his day to day job, he also is part of the BTUG (Belgian BizTalk User Group) board.
 
-Glenn has been integrating businesses with BizTalk, Cloud & Microsoft technologies for more than 8 years. He has gained a lot of hand-on experience during his projects and likes to share it with colleagues and the community.
 
-You can find this blogposts on his Personal Blog (https://glenncolpaert.wordpress.com/) and follow his tweets via http://twitter.com/GlennColpaert
 
 <br />
 <br />
