@@ -1,6 +1,6 @@
 ---
 layout: single
-title: About IntegrationCommunity
+title: About Integration Community
 tagline: Integration Community Group Belgium
 permalink: /about
 ---
