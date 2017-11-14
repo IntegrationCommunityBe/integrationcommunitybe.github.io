@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: Welcome to IntegrationCommunity!
+title: Welcome to Integration Community!
 tagline: Integration Community User Group Belgium
 permalink: /
 header:
