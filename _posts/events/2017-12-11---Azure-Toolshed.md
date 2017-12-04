@@ -10,7 +10,7 @@ author: Sven Van den brande
 ---
 
 
-Our next event will take place in the office of Microsoft, Zaventeam - Belgium.<br />
+Our next event will take place in the office of Microsoft, Zaventem - Belgium.<br />
 We hope to see you all there! (Click Image to register)
 
 <a href="https://www.eventbrite.com/e/integrationcommunitybe-monday-december-11-azure-tools-cognitive-services-and-understanding-modern-tickets-39835385711?aff=affiliate1" target="_blank"><img class="alignleft wp-image-1011" src="/assets/media/logo/eventbrite.png" alt="eventbrite" width="119" height="40" /></a>
